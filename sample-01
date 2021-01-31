@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="stylesheet.css">
+    <meta charset="utf-8">
+    <title>Works</title>
+  </head>
+  <body>
+  <header>
+  <div class="header-right">
+    About Works Value
+  </div>
+ </header>
+    <div class="top-wrapper">
+      <div class="top-container">
+        <div class="top-contents">
+        <h1>Works Value</h1>
+        <h2>あなたのソウゾウ(想像/創造)に価値を。</h2>
+        <p>ご自身が創造したコンテンツを投稿し、閲覧者からの評価により対価を得る。</p>
+        <p>新しい時代の新しいサービスです。さあ、あなたのソウゾウを、世界に届けましょう。</p>
+        </div>
+        <a href="#" class="signup"><span class="btn1"></span>会員登録</a>
+        <a href="#" class="login"><span class="btn2"></span>サインイン</a>
+      </div>
+    </div>
+    <div class="contents-wrapper">
+      <div class="contents-container">
+        <h2>作品を探す</h2>
+        <div class="contents">
+          <div class="content">
+          <img class="content-icon"src="https://github.com/tom6510/tom6510.github.io/blob/main/manga.jpg?raw=true">
+          <p>マンガ</p>
+          </div>
+          <div class="content">
+          <img class="content-icon"src="https://github.com/tom6510/tom6510.github.io/blob/main/manga.jpg?raw=true">
+          <p>イラスト</p>
+          </div>
+          <div class="content">
+          <img class="content-icon"src="https://github.com/tom6510/tom6510.github.io/blob/main/manga.jpg?raw=true">
+          <p>小説</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
